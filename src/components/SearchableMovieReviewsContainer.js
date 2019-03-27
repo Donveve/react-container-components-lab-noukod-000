@@ -1,4 +1,4 @@
-import React, { Components } from 'react';
+import React, { Component } from 'react';
 import 'isomorphic-fetch';
 import MovieReviews from './MovieReviews'
 
